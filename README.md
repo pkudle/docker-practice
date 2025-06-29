@@ -1,3 +1,8 @@
+This is sample project, done to deploy student registration app.
+- Backend is in Java Sprinboot
+- Frontend is in React
+- Database used is MariaDB
+
 # MariaDB Setup and Configuration Guide for Windows
 
 This guide explains how to set up MariaDB, create a database, and Create Database User
