@@ -8,8 +8,6 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: redhat
       MYSQL_DATABASE: student_db
-      MYSQL_USER: linux
-      MYSQL_PASSWORD: redhat
     ports:
       - "3306:3306"
     volumes:
